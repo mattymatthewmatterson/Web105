@@ -1,0 +1,144 @@
+body {
+    
+
+    font-family: 'Comfortaa', cursive;
+
+;
+    padding: 0;
+    margin: 0;
+    line-height: 1.5;
+}
+
+h1,
+h2
+{
+    color: #ff1493;
+    text-align: center;
+}
+
+h3
+{
+    color:#ff1493;
+    text-align: center;
+}
+
+header h1 {
+    color: black;
+}
+
+.container {
+    background: white;
+    max-width: 1060px;
+    margin: 5px auto;
+    border-radius: 5px;
+    padding: 15px;
+    line-height: 1.5;
+}
+
+header {
+  background-image: url(puppypamperheader.jpg);
+  background-size: auto;
+  text-align: center;
+  margin-top: -30px;
+  margin-bottom: 30px;
+  width: 100%;
+  height: auto; }
+
+nav {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+nav a {
+    padding: 5px 10px;
+    background: #000000;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 1.1em;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav a:hover {
+    background: #FFFFFF;
+    color: #ff1493;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #000000;
+}
+
+a:hover{
+    text-decoration:underline;
+    color:#ff1493;
+}
+
+.splash {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    background-color: #ff1493;
+    margin: 5px 25px;
+}
+
+#current {
+    background: #ff1493;
+    color: #ffffff;
+}
+
+#home section {
+    float: center;
+    width: 40%;
+    margin: 5px 10%;
+}
+
+#home article {
+    float: left;
+    width: 65%;
+    margin: 1%;
+}
+
+section,
+article {
+    width: 90%;
+    margin: 10px auto;
+}
+
+aside {
+    float: left;
+    width: 25%;
+    margin: 5px 2%;
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+}
+
+table {
+    width: 60%;
+    text-align: center;
+    margin: 10px auto;
+    border: 3px solid #ff1493;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid #ff1493;
+}
+
+code {
+    background: rgba(209, 196, 233, .2);
+    font-family: monospace;
+    font-weight: 900;
+    font-size: 1.3em;
+    padding: 5px;
+    border-radius: 5px;
+}

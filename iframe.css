@@ -1,0 +1,24 @@
+body {
+    font-family: "Lucida Console", Monaco, monospace;
+    background-color: lightgoldenrodyellow
+        
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-size: 3em; 
+    color: saddlebrown;
+}
+
+.container {
+    max-width: 1060px;
+    margin: 10px auto;
+}
+
+iframe {
+    padding-bottom: 40px;
+    width: 90%;
+    height: 600px;
+    border: 10px solid black;
+}
